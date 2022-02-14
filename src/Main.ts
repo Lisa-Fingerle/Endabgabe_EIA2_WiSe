@@ -1,3 +1,13 @@
+/*
+Aufgabe: <Endabgabe>
+Name: <Lisa Fingerle>
+Matrikel: <268510>
+Datum: <14.02.2021>
+<Zusammengearbeitet mit Deborah Reinbold, Asya Tetik, Christina Gabler >
+Quellen: Asteroids von Jirka, Soccer Game von Mona Stingl
+*/
+
+
 namespace DoenerTrainer {
 
     window.addEventListener("load", handleLoad);
